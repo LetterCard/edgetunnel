@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   sync:
-    name: Sync cmliu/edgetunnel
+    name: 同步上游文件
     runs-on: ubuntu-latest
 
     steps:
