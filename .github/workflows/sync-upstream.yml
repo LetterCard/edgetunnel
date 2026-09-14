@@ -1,5 +1,4 @@
-name: Sync Upstream Files
-
+name: 同步上游文件
 on:
   schedule:
     - cron: "0 0 * * *"
